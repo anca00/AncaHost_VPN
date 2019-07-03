@@ -1,5 +1,6 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
+
 127.0.0.1 www.dingd.cn
 127.0.0.1 api.dingd.cn
 127.0.0.1 dlied1.qq.com
@@ -416,6 +417,7 @@
 
 127.0.0.1       localhost
 ::1             ip6-localhost
+
 127.0.0.1 www.dingd.cn
 127.0.0.1 api.dingd.cn
 127.0.0.1 dlied1.qq.com
