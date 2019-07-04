@@ -1,6 +1,5 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
-
 127.0.0.1 www.dingd.cn
 127.0.0.1 api.dingd.cn
 127.0.0.1 dlied1.qq.com
@@ -27,9 +26,7 @@
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 pingma.qq.com
 
-127.0.0.1       localhost
-::1             ip6-localhost
-
+127.0.0.1 localhost
 127.0.0.1 dlied1.qq.com
 127.0.0.1 cdn.wetest.qq.com
 127.0.0.1 cs.mbgame.gamesafe.qq.com
@@ -45,8 +42,6 @@
 132.232.173.228 oth.eve.mdt.qq.com
 127.0.0.1 www.googleapis.com
 216.58.221.238 android.clients.google.com
-
-127.0.0.1       localhost
 ::1             ip6-localhost
 
 140.205.34.12 dlied1.qq.com
@@ -421,7 +416,6 @@
 
 127.0.0.1       localhost
 ::1             ip6-localhost
-
 127.0.0.1 www.dingd.cn
 127.0.0.1 api.dingd.cn
 127.0.0.1 dlied1.qq.com
